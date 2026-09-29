@@ -235,8 +235,8 @@ class SearchHit:
 
     ``kind`` says which, and the fields that only make sense for one of them
     are empty on the other. A hit of kind ``address`` exists in the shape but
-    not in this API's answers: G-NAF rows belong to locio.com.au, and
-    api.postfinder.io filters them out.
+    not in this API's answers: api.postfinder.io filters street address
+    rows out.
     """
 
     kind: str = ""

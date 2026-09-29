@@ -155,10 +155,6 @@ The [sources page](https://postfinder.io/en/legal/) names each one.
 | Vue | [`@postfinder/vue`](https://www.npmjs.com/package/@postfinder/vue) |
 | Go | [`postfinder-go`](https://github.com/postfinder/postfinder-go) |
 
-Looking for Australian street addresses rather than locations? That is
-[Locio](https://locio.com.au): G-NAF address autocomplete, validation and
-geocoding.
-
 ## Licence
 
 MIT.
