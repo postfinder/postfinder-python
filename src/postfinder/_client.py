@@ -24,7 +24,7 @@ from ._models import (
     SearchHit,
 )
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 DEFAULT_BASE_URL = "https://api.postfinder.io"
 

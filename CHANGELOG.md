@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.1
+
+- The README links the website beside the contact page, and no longer points
+  at other products.
+- The Documentation link on PyPI goes to the API reference at
+  postfinder.io/api/; it pointed at a page that does not exist.
+
 ## 0.1.0
 
 First release.

@@ -132,7 +132,9 @@ do about it.
 The API is free and asks for care in return: around a thousand requests a month
 from one address, results kept rather than re-fetched, typing debounced. If you
 need more than that, say what you are building at
-[postfinder.io/en/contact/](https://postfinder.io/en/contact/).
+[postfinder.io/en/contact/](https://postfinder.io/en/contact/). Every location
+the API returns also has a page of its own on the website,
+[postfinder.io](https://postfinder.io/).
 
 Introduce yourself and it is easier to help you before a rate limit does:
 

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "postfinder"
-version = "0.1.0"
+version = "0.1.1"
 description = "Find post offices, parcel lockers and post boxes near a point, and look up postcodes. Free and keyless."
 readme = "README.md"
 requires-python = ">=3.9"
@@ -45,7 +45,7 @@ dependencies = []
 
 [project.urls]
 Homepage = "https://postfinder.io"
-Documentation = "https://postfinder.io/en/docs/"
+Documentation = "https://postfinder.io/api/"
 Source = "https://github.com/postfinder/postfinder-python"
 Changelog = "https://github.com/postfinder/postfinder-python/blob/main/CHANGELOG.md"
 
